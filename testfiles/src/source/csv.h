@@ -1,5 +1,5 @@
-#include <stdio.h> // you
-
+#include <stdio.h> // needs to include the library of stdio.h
+//Author : Dr. Michael Cormier
 //CSV Record structure
 typedef struct record_t {
 	int num_fields;

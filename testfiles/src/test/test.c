@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include "csv.h"
+#include "../source/csv.h"
 
 //Dr. Michael Cormier
 int main(int argc, char *argv[]) {
