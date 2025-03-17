@@ -73,10 +73,9 @@ free_record(&record); // Free memory after use
 - Implement escaping for special characters.
 - Optimize memory reallocation strategies.
 
-
 ## Author
 Jean Michel Mugabe
 
-##Acknowledgement 
+## Acknowledgement 
 Dr. Michael Cormier (micormier@mta.ca)
 
